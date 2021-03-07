@@ -1,0 +1,66 @@
+[
+    {
+        "BL": "Baden-Württemberg",
+        "BL_ID": "8"
+    },
+    {
+        "BL": "Bayern",
+        "BL_ID": "9"
+    },
+    {
+        "BL": "Berlin",
+        "BL_ID": "11"
+    },
+    {
+        "BL": "Brandenburg",
+        "BL_ID": "12"
+    },
+    {
+        "BL": "Bremen",
+        "BL_ID": "4"
+    },
+    {
+        "BL": "Hamburg",
+        "BL_ID": "2"
+    },
+    {
+        "BL": "Hessen",
+        "BL_ID": "6"
+    },
+    {
+        "BL": "Mecklenburg-Vorpommern",
+        "BL_ID": "13"
+    },
+    {
+        "BL": "Niedersachsen",
+        "BL_ID": "3"
+    },
+    {
+        "BL": "Nordrhein-Westfalen",
+        "BL_ID": "5"
+    },
+    {
+        "BL": "Rheinland-Pfalz",
+        "BL_ID": "7"
+    },
+    {
+        "BL": "Saarland",
+        "BL_ID": "10"
+    },
+    {
+        "BL": "Sachsen",
+        "BL_ID": "14"
+    },
+    {
+        "BL": "Sachsen-Anhalt",
+        "BL_ID": "15"
+    },
+    {
+        "BL": "Schleswig-Holstein",
+        "BL_ID": "1"
+    },
+    {
+        "BL": "Thüringen",
+        "BL_ID": "16"
+    }
+]

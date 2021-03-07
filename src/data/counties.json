@@ -1,0 +1,2062 @@
+[
+    {
+        "BL_ID": "1",
+        "GEN": "Dithmarschen",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "1",
+        "GEN": "Flensburg",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "1",
+        "GEN": "Herzogtum Lauenburg",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "1",
+        "GEN": "Kiel",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "1",
+        "GEN": "Lübeck",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "1",
+        "GEN": "Neumünster",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "1",
+        "GEN": "Nordfriesland",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "1",
+        "GEN": "Ostholstein",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "1",
+        "GEN": "Pinneberg",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "1",
+        "GEN": "Plön",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "1",
+        "GEN": "Rendsburg-Eckernförde",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "1",
+        "GEN": "Schleswig-Flensburg",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "1",
+        "GEN": "Segeberg",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "1",
+        "GEN": "Steinburg",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "1",
+        "GEN": "Stormarn",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "10",
+        "GEN": "Merzig-Wadern",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "10",
+        "GEN": "Neunkirchen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "10",
+        "GEN": "Regionalverband Saarbrücken",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "10",
+        "GEN": "Saarlouis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "10",
+        "GEN": "Saarpfalz-Kreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "10",
+        "GEN": "St. Wendel",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "11",
+        "GEN": "Berlin Charlottenburg-Wilmersdorf",
+        "BEZ": "Bezirk"
+    },
+    {
+        "BL_ID": "11",
+        "GEN": "Berlin Friedrichshain-Kreuzberg",
+        "BEZ": "Bezirk"
+    },
+    {
+        "BL_ID": "11",
+        "GEN": "Berlin Lichtenberg",
+        "BEZ": "Bezirk"
+    },
+    {
+        "BL_ID": "11",
+        "GEN": "Berlin Marzahn-Hellersdorf",
+        "BEZ": "Bezirk"
+    },
+    {
+        "BL_ID": "11",
+        "GEN": "Berlin Mitte",
+        "BEZ": "Bezirk"
+    },
+    {
+        "BL_ID": "11",
+        "GEN": "Berlin Neukölln",
+        "BEZ": "Bezirk"
+    },
+    {
+        "BL_ID": "11",
+        "GEN": "Berlin Pankow",
+        "BEZ": "Bezirk"
+    },
+    {
+        "BL_ID": "11",
+        "GEN": "Berlin Reinickendorf",
+        "BEZ": "Bezirk"
+    },
+    {
+        "BL_ID": "11",
+        "GEN": "Berlin Spandau",
+        "BEZ": "Bezirk"
+    },
+    {
+        "BL_ID": "11",
+        "GEN": "Berlin Steglitz-Zehlendorf",
+        "BEZ": "Bezirk"
+    },
+    {
+        "BL_ID": "11",
+        "GEN": "Berlin Tempelhof-Schöneberg",
+        "BEZ": "Bezirk"
+    },
+    {
+        "BL_ID": "11",
+        "GEN": "Berlin Treptow-Köpenick",
+        "BEZ": "Bezirk"
+    },
+    {
+        "BL_ID": "12",
+        "GEN": "Barnim",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "12",
+        "GEN": "Brandenburg an der Havel",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "12",
+        "GEN": "Cottbus",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "12",
+        "GEN": "Dahme-Spreewald",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "12",
+        "GEN": "Elbe-Elster",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "12",
+        "GEN": "Frankfurt (Oder)",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "12",
+        "GEN": "Havelland",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "12",
+        "GEN": "Märkisch-Oderland",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "12",
+        "GEN": "Oberhavel",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "12",
+        "GEN": "Oberspreewald-Lausitz",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "12",
+        "GEN": "Oder-Spree",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "12",
+        "GEN": "Ostprignitz-Ruppin",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "12",
+        "GEN": "Potsdam",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "12",
+        "GEN": "Potsdam-Mittelmark",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "12",
+        "GEN": "Prignitz",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "12",
+        "GEN": "Spree-Neiße",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "12",
+        "GEN": "Teltow-Fläming",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "12",
+        "GEN": "Uckermark",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "13",
+        "GEN": "Ludwigslust-Parchim",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "13",
+        "GEN": "Mecklenburgische Seenplatte",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "13",
+        "GEN": "Nordwestmecklenburg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "13",
+        "GEN": "Rostock",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "13",
+        "GEN": "Rostock",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "13",
+        "GEN": "Schwerin",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "13",
+        "GEN": "Vorpommern-Greifswald",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "13",
+        "GEN": "Vorpommern-Rügen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "14",
+        "GEN": "Bautzen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "14",
+        "GEN": "Chemnitz",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "14",
+        "GEN": "Dresden",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "14",
+        "GEN": "Erzgebirgskreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "14",
+        "GEN": "Görlitz",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "14",
+        "GEN": "Leipzig",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "14",
+        "GEN": "Leipzig",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "14",
+        "GEN": "Meißen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "14",
+        "GEN": "Mittelsachsen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "14",
+        "GEN": "Nordsachsen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "14",
+        "GEN": "Sächsische Schweiz-Osterzgebirge",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "14",
+        "GEN": "Vogtlandkreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "14",
+        "GEN": "Zwickau",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "15",
+        "GEN": "Altmarkkreis Salzwedel",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "15",
+        "GEN": "Anhalt-Bitterfeld",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "15",
+        "GEN": "Börde",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "15",
+        "GEN": "Burgenlandkreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "15",
+        "GEN": "Dessau-Roßlau",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "15",
+        "GEN": "Halle (Saale)",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "15",
+        "GEN": "Harz",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "15",
+        "GEN": "Jerichower Land",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "15",
+        "GEN": "Magdeburg",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "15",
+        "GEN": "Mansfeld-Südharz",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "15",
+        "GEN": "Saalekreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "15",
+        "GEN": "Salzlandkreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "15",
+        "GEN": "Stendal",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "15",
+        "GEN": "Wittenberg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Altenburger Land",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Eichsfeld",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Eisenach",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Erfurt",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Gera",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Gotha",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Greiz",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Hildburghausen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Ilm-Kreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Jena",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Kyffhäuserkreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Nordhausen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Saale-Holzland-Kreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Saale-Orla-Kreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Saalfeld-Rudolstadt",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Schmalkalden-Meiningen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Sömmerda",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Sonneberg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Suhl",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Unstrut-Hainich-Kreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Wartburgkreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Weimar",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "16",
+        "GEN": "Weimarer Land",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "2",
+        "GEN": "Hamburg",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Ammerland",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Aurich",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Braunschweig",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Celle",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Cloppenburg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Cuxhaven",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Delmenhorst",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Diepholz",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Emden",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Emsland",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Friesland",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Gifhorn",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Goslar",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Göttingen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Grafschaft Bentheim",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Hameln-Pyrmont",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Harburg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Heidekreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Helmstedt",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Hildesheim",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Holzminden",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Leer",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Lüchow-Dannenberg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Lüneburg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Nienburg (Weser)",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Northeim",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Oldenburg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Oldenburg (Oldb)",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Osnabrück",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Osnabrück",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Osterholz",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Peine",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Region Hannover",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Rotenburg (Wümme)",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Salzgitter",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Schaumburg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Stade",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Uelzen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Vechta",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Verden",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Wesermarsch",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Wilhelmshaven",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Wittmund",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Wolfenbüttel",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "3",
+        "GEN": "Wolfsburg",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "4",
+        "GEN": "Bremen",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "4",
+        "GEN": "Bremerhaven",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Bielefeld",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Bochum",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Bonn",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Borken",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Bottrop",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Coesfeld",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Dortmund",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Duisburg",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Düren",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Düsseldorf",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Ennepe-Ruhr-Kreis",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Essen",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Euskirchen",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Gelsenkirchen",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Gütersloh",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Hagen",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Hamm",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Heinsberg",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Herford",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Herne",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Hochsauerlandkreis",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Höxter",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Kleve",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Köln",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Krefeld",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Leverkusen",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Lippe",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Märkischer Kreis",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Mettmann",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Minden-Lübbecke",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Mönchengladbach",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Mülheim an der Ruhr",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Münster",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Oberbergischer Kreis",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Oberhausen",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Olpe",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Paderborn",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Recklinghausen",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Remscheid",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Rhein-Erft-Kreis",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Rheinisch-Bergischer Kreis",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Rhein-Kreis Neuss",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Rhein-Sieg-Kreis",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Siegen-Wittgenstein",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Soest",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Solingen",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Städteregion Aachen",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Steinfurt",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Unna",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Viersen",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Warendorf",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Wesel",
+        "BEZ": "Kreis"
+    },
+    {
+        "BL_ID": "5",
+        "GEN": "Wuppertal",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Bergstraße",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Darmstadt",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Darmstadt-Dieburg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Frankfurt am Main",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Fulda",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Gießen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Groß-Gerau",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Hersfeld-Rotenburg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Hochtaunuskreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Kassel",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Kassel",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Lahn-Dill-Kreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Limburg-Weilburg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Main-Kinzig-Kreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Main-Taunus-Kreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Marburg-Biedenkopf",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Odenwaldkreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Offenbach",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Offenbach am Main",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Rheingau-Taunus-Kreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Schwalm-Eder-Kreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Vogelsbergkreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Waldeck-Frankenberg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Werra-Meißner-Kreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Wetteraukreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "6",
+        "GEN": "Wiesbaden",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Ahrweiler",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Altenkirchen (Westerwald)",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Alzey-Worms",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Bad Dürkheim",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Bad Kreuznach",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Bernkastel-Wittlich",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Birkenfeld",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Cochem-Zell",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Donnersbergkreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Eifelkreis Bitburg-Prüm",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Frankenthal (Pfalz)",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Germersheim",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Kaiserslautern",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Kaiserslautern",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Koblenz",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Kusel",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Landau in der Pfalz",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Ludwigshafen am Rhein",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Mainz",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Mainz-Bingen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Mayen-Koblenz",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Neustadt an der Weinstraße",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Neuwied",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Pirmasens",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Rhein-Hunsrück-Kreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Rhein-Lahn-Kreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Rhein-Pfalz-Kreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Speyer",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Südliche Weinstraße",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Südwestpfalz",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Trier",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Trier-Saarburg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Vulkaneifel",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Westerwaldkreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Worms",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "7",
+        "GEN": "Zweibrücken",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Alb-Donau-Kreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Baden-Baden",
+        "BEZ": "Stadtkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Biberach",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Böblingen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Bodenseekreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Breisgau-Hochschwarzwald",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Calw",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Emmendingen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Enzkreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Esslingen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Freiburg im Breisgau",
+        "BEZ": "Stadtkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Freudenstadt",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Göppingen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Heidelberg",
+        "BEZ": "Stadtkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Heidenheim",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Heilbronn",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Heilbronn",
+        "BEZ": "Stadtkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Hohenlohekreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Karlsruhe",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Karlsruhe",
+        "BEZ": "Stadtkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Konstanz",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Lörrach",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Ludwigsburg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Main-Tauber-Kreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Mannheim",
+        "BEZ": "Stadtkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Neckar-Odenwald-Kreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Ortenaukreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Ostalbkreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Pforzheim",
+        "BEZ": "Stadtkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Rastatt",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Ravensburg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Rems-Murr-Kreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Reutlingen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Rhein-Neckar-Kreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Rottweil",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Schwäbisch Hall",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Schwarzwald-Baar-Kreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Sigmaringen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Stuttgart",
+        "BEZ": "Stadtkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Tübingen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Tuttlingen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Ulm",
+        "BEZ": "Stadtkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Waldshut",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "8",
+        "GEN": "Zollernalbkreis",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Aichach-Friedberg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Altötting",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Amberg",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Amberg-Sulzbach",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Ansbach",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Ansbach",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Aschaffenburg",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Aschaffenburg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Augsburg",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Augsburg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Bad Kissingen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Bad Tölz-Wolfratshausen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Bamberg",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Bamberg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Bayreuth",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Bayreuth",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Berchtesgadener Land",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Cham",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Coburg",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Coburg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Dachau",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Deggendorf",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Dillingen a.d. Donau",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Dingolfing-Landau",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Donau-Ries",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Ebersberg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Eichstätt",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Erding",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Erlangen",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Erlangen-Höchstadt",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Forchheim",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Freising",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Freyung-Grafenau",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Fürstenfeldbruck",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Fürth",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Fürth",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Garmisch-Partenkirchen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Günzburg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Haßberge",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Hof",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Hof",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Ingolstadt",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Kaufbeuren",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Kelheim",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Kempten (Allgäu)",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Kitzingen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Kronach",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Kulmbach",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Landsberg am Lech",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Landshut",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Landshut",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Lichtenfels",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Lindau (Bodensee)",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Main-Spessart",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Memmingen",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Miesbach",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Miltenberg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Mühldorf a. Inn",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "München",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "München",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Neuburg-Schrobenhausen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Neumarkt i.d. OPf.",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Neustadt a.d. Aisch-Bad Windsheim",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Neustadt a.d. Waldnaab",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Neu-Ulm",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Nürnberg",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Nürnberger Land",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Oberallgäu",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Ostallgäu",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Passau",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Passau",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Pfaffenhofen a.d. Ilm",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Regen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Regensburg",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Regensburg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Rhön-Grabfeld",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Rosenheim",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Rosenheim",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Roth",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Rottal-Inn",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Schwabach",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Schwandorf",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Schweinfurt",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Schweinfurt",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Starnberg",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Straubing",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Straubing-Bogen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Tirschenreuth",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Traunstein",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Unterallgäu",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Weiden i.d. OPf.",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Weilheim-Schongau",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Weißenburg-Gunzenhausen",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Wunsiedel i. Fichtelgebirge",
+        "BEZ": "Landkreis"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Würzburg",
+        "BEZ": "Kreisfreie Stadt"
+    },
+    {
+        "BL_ID": "9",
+        "GEN": "Würzburg",
+        "BEZ": "Landkreis"
+    }
+]
