@@ -1,6 +1,7 @@
 import React, {Component, Fragment} from 'react';
-import states from '../data/states.json'
-import counties from '../data/counties.json'
+
+import CountyModel from "../models/counties";
+import StateModel from "../models/states";
 
 class SelectCounty extends Component {
 
@@ -8,7 +9,7 @@ class SelectCounty extends Component {
         super(props);
         this.state = {
             selectedState: "8",
-            selectedCounty: "none"
+            selectedCounty: "0"
         }
     }
 
@@ -20,14 +21,15 @@ class SelectCounty extends Component {
     }
 
     onCountyChange(event){
+        const selectedCounty = event.target.value;
         this.setState({
-            selectedCounty: event.target.value
+            selectedCounty
         })
-        console.log(event.target.value);
+        this.props.onChange(selectedCounty);
     }
 
     stateSelect() {
-        const options = states.map(state => (
+        const options = StateModel.getStates().map(state => (
             <option value={state.BL_ID}>{state.BL}</option>
         ));
 
@@ -39,12 +41,11 @@ class SelectCounty extends Component {
     }
 
     countySelect() {
-        const countiesInState = counties.filter(county => county.BL_ID === this.state.selectedState);
-        let options = countiesInState.map(county => (
-            <option value={county.GEN}>{`${county.BEZ} ${county.GEN}`}</option>
+        let options = CountyModel.getCounties(this.state.selectedState).map(county => (
+            <option value={county.RS}>{`${county.BEZ} ${county.GEN}`}</option>
         ));
         options.unshift(
-            <option value="none">Bitte wählen</option>
+            <option value="0">Bitte wählen</option>
         )
 
         return (
