@@ -1,8 +1,9 @@
 import counties from '../data/counties.json'
 
 class CountyModel {
-    static getPopulation(id: string) {
-        return counties.find((county: any) => (county.RS === id));
+    static getPopulation(id: string) : number{
+        const county = counties.find((county: any) => (county.RS === id))
+        return county ? county.EWZ : 1; //To prevent division by 0
     }
 
     static getCounties(id: string) {

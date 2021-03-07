@@ -16,7 +16,7 @@ class App extends Component {
     }
 
     logCases(id) {
-        new CaseModel().get7DayCases(id, 10).then(res => {
+        new CaseModel().get7DayIncidence(id, 10).then(res => {
             console.log(res);
             this.setState({
                 cases7Days: res[res.length - 1]

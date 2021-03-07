@@ -1,3 +1,5 @@
+import CountyModel from "./counties";
+
 const {DateTime} = require('luxon');
 
 class CaseModel {
@@ -22,7 +24,7 @@ class CaseModel {
         return cases.features.map((fall: any) => fall.attributes);
     }
 
-    async get7DayCases(id: string, days = 3) {
+    async get7DayCases(id: string, days = 3) : Promise<number[]>{
         const cases = await this.getCases(id, days + 6);
 
         let sevenDayCases: number[] = [];
@@ -40,5 +42,11 @@ class CaseModel {
         return sevenDayCases
     }
 
+    async get7DayIncidence(id: string, days = 3) : Promise<number[]> {
+        const population = CountyModel.getPopulation(id);
+        const sevenDayCases = await this.get7DayCases(id, days);
+
+        return sevenDayCases.map(cases => (cases * 100000 / population))
+    }
 }
 export default CaseModel;
