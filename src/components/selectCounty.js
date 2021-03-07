@@ -3,6 +3,8 @@ import React, {Component, Fragment} from 'react';
 import CountyModel from "../models/counties";
 import StateModel from "../models/states";
 
+import './css/selectCounty.scss'
+
 class SelectCounty extends Component {
 
     constructor(props) {
@@ -57,10 +59,10 @@ class SelectCounty extends Component {
 
     render() {
         return(
-            <Fragment>
+            <div className={"selectCounty-container"}>
                 {this.stateSelect()}
                 {this.countySelect()}
-            </Fragment>
+            </div>
         )
     }
 }

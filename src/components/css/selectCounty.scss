@@ -1,0 +1,17 @@
+.selectCounty-container{
+  display: flex;
+  flex-wrap: wrap;
+
+  width: 100%;
+  max-width: 1098px;
+
+  margin: 0 auto;
+}
+
+.selectCounty-container>select{
+  flex: 1 0 250px;
+  height: 40px;
+  font-size: large;
+
+  overflow: hidden;
+}
